@@ -1,0 +1,39 @@
+﻿@model Student;
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+
+        <form  method="post">
+
+            <input type="type" placeholder="Enter Name" asp-for="name" />
+          
+ 
+            <br />
+        <span asp-validation-for="name"></span>
+        <br />
+            <input  placeholder="Enter mail" asp-for="mail" />
+            <br />
+        <span asp-validation-for="mail"></span>
+        <br />
+            <input  placeholder="Enter Password" asp-for="password" />
+            <br />
+        <span asp-validation-for="password"></span>
+        <br />
+
+        <input placeholder="Enter Number" asp-for="number" />
+        <br />
+        <span asp-validation-for="number"></span>
+        <br />
+        <input placeholder="Enter standerd" asp-for="standerd" />
+        <br />
+        <span asp-validation-for="standerd"></span>
+        <br />
+
+<button>Register</button>
+            </form>
+    
+    </body>
+    </html>

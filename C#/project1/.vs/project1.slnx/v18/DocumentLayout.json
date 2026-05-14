@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|e:\\c#\\project1\\project1\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|solutionrelative:project1\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|e:\\c#\\project1\\project1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|solutionrelative:project1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|e:\\c#\\project1\\project1\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|solutionrelative:project1\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|e:\\c#\\project1\\project1\\views\\practice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|project1\\project1.csproj|solutionrelative:project1\\views\\practice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\project1\\project1\\Views\\practice\\Index.cshtml",
+              "RelativeDocumentMoniker": "project1\\Views\\practice\\Index.cshtml",
+              "ToolTip": "E:\\C#\\project1\\project1\\Views\\practice\\Index.cshtml",
+              "RelativeToolTip": "project1\\Views\\practice\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T11:32:19.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\project1\\project1\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "project1\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\C#\\project1\\project1\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "project1\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T07:19:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\C#\\project1\\project1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "project1\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\C#\\project1\\project1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "project1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:33:35.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "E:\\C#\\project1\\project1\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "project1\\Models\\StudentModel.cs",
+              "ToolTip": "E:\\C#\\project1\\project1\\Models\\StudentModel.cs",
+              "RelativeToolTip": "project1\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:30:42.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

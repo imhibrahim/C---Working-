@@ -1,0 +1,17 @@
+E:\C#\form1\form1\bin\Debug\net10.0-windows\form1.exe
+E:\C#\form1\form1\bin\Debug\net10.0-windows\form1.deps.json
+E:\C#\form1\form1\bin\Debug\net10.0-windows\form1.runtimeconfig.json
+E:\C#\form1\form1\bin\Debug\net10.0-windows\form1.dll
+E:\C#\form1\form1\bin\Debug\net10.0-windows\form1.pdb
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.Form1.resources
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.csproj.GenerateResource.cache
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.AssemblyInfoInputs.cache
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.AssemblyInfo.cs
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.csproj.CoreCompileInputs.cache
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.dll
+E:\C#\form1\form1\obj\Debug\net10.0-windows\refint\form1.dll
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.pdb
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.genruntimeconfig.cache
+E:\C#\form1\form1\obj\Debug\net10.0-windows\ref\form1.dll
+E:\C#\form1\form1\obj\Debug\net10.0-windows\form1.Properties.Resources.resources

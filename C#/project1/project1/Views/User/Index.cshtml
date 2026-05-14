@@ -1,0 +1,46 @@
+﻿@{
+
+       var students = ViewData["stddata"] as List<StudentModel>;
+    // var students = TempData["stddata"] as List<StudentModel>;
+    // var students = ViewBag.data;
+
+
+    // Strongly type
+       @model IEnumerable<StudentModel>
+    
+
+}
+
+<a asp-action="index" asp-controller="home">home</a>
+<a asp-action="data" asp-controller="home" asp-route-id="1">home</a>
+<a asp-action="privacy" asp-controller="home">Privacy</a>
+<a asp-action="index" asp-controller="contact">Gallary</a>
+<a href="/home/index">new</a>
+
+<img src="~/images/pic1.png" asp-append-version="true" />
+
+
+<table>
+    <tr>
+        <th>id</th>
+        <th>Name</th>
+        <th>gander</th>
+        <th>class</th>
+    </tr>
+
+    @foreach (var std in Model)
+    {
+       <tr>
+            <td>@std.id</td>
+            <td>@std.name</td>
+            <td>@std.gander</td>
+            <td>@std.standerd</td>
+           
+            @* <td>@std.id</td>
+            <td>@std.name</td>
+            <td>@std.gander</td>
+            <td>@std.standerd</td> *@
+       </tr>
+    }
+
+</table>

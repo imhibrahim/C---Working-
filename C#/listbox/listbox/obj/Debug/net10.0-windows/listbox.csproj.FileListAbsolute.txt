@@ -1,0 +1,16 @@
+E:\C#\listbox\listbox\bin\Debug\net10.0-windows\listbox.exe
+E:\C#\listbox\listbox\bin\Debug\net10.0-windows\listbox.deps.json
+E:\C#\listbox\listbox\bin\Debug\net10.0-windows\listbox.runtimeconfig.json
+E:\C#\listbox\listbox\bin\Debug\net10.0-windows\listbox.dll
+E:\C#\listbox\listbox\bin\Debug\net10.0-windows\listbox.pdb
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\listbox.Form1.resources
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\listbox.csproj.GenerateResource.cache
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\listbox.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\listbox.AssemblyInfoInputs.cache
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\listbox.AssemblyInfo.cs
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\listbox.csproj.CoreCompileInputs.cache
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\listbox.dll
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\refint\listbox.dll
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\listbox.pdb
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\listbox.genruntimeconfig.cache
+E:\C#\listbox\listbox\obj\Debug\net10.0-windows\ref\listbox.dll

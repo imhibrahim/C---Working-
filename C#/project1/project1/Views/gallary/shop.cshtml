@@ -1,0 +1,16 @@
+﻿<h1>Shop Page</h1>
+
+@* @ViewData["name"]
+@ViewData["name1"]
+@ViewData["username"] *@
+
+@{
+
+    foreach (var list in ViewBag.name2)
+    {
+        <h2>@list</h2>
+    }
+}
+
+<hr />
+@ViewBag.name
